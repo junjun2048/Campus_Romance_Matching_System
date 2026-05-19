@@ -46,7 +46,9 @@ python Client.py
 ├── ElGamal.py             # ElGamal加密、同态乘法实现
 ├── sm3.py                 # 国密SM3哈希、密钥派生
 ├── data.py                # 数据库初始化、用户管理、匹配逻辑
+├── check.py               # 查看数据库当前存储内容
 └── README.md              # 项目说明文档
+
 ```
 
 ## 核心功能
