@@ -41,7 +41,7 @@ python Client.py
 
 ## 文件结构说明
 ```
-├── server.py              # 服务器主程序
+├── Server.py              # 服务器主程序
 ├── Client.py              # 客户端GUI程序
 ├── ElGamal.py             # ElGamal加密、同态乘法实现
 ├── sm3.py                 # 国密SM3哈希、密钥派生
